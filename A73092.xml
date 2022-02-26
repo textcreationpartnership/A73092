@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Roome for companie, heere comes good fellowes To a pleasant new tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73092</idno>
+            <idno type="STC">STC 21315.4</idno>
+            <idno type="STC">ESTC S124602</idno>
+            <idno type="EEBO-CITATION">99899200</idno>
+            <idno type="PROQUEST">99899200</idno>
+            <idno type="VID">150744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150744)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1977:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Roome for companie, heere comes good fellowes To a pleasant new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>[by G. Eld] for E. W[right].,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[ca. 1617]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's and publisher's names and date of publication from STC.</note>
+                  <note>Verse - "Roome for Company,".</note>
+                  <note>In two parts, printed side by side. The second part has title: The second part of Roome for Company. &amp;c..</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bartholomew Fair --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150744:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>Roome for Companie, heere comes Good Fellowes.</head>
+            <opener>To a pleaſant new tune.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>ROome for Company,</l>
+                  <l>héere comes good fellowes,</l>
+                  <l>Roome for Company,</l>
+                  <l>in Bartholmew Faire,</l>
+                  <l>Coblers and Broome-men,</l>
+                  <l>Iaylors and Loome-men:</l>
+                  <l>Roome for Company</l>
+                  <l>in Bartholmew Faire.</l>
+                  <l>Botchers and Taylors,</l>
+                  <l>Shipwrights and Saylors,</l>
+                  <l>Roome for Company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for Company,</l>
+                  <l>here comes good fellowes,</l>
+                  <l>Roome for company,</l>
+                  <l>in Bartholmew fare.</l>
+                  <l>Tinkers and Braſiers,</l>
+                  <l>Glaſſemen and Glaſiers:</l>
+                  <l>Roome for Company,</l>
+                  <l>in Bartholmew fare.</l>
+                  <l>Fidlers and Pipers,</l>
+                  <l>Drummes, Flagges, &amp; Fiffers,</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare,</l>
+               </lg>
+               <lg>
+                  <l>Roome for Company,</l>
+                  <l>here comes good fellowes, &amp;c.</l>
+                  <l>Coopers, and Cutlers,</l>
+                  <l>Then Cookes and Butlers:</l>
+                  <l>Roome for company</l>
+                  <l>in Bartholmew fare.</l>
+                  <l>Tanners and Curryers,</l>
+                  <l>Tawers and Furryers:</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for Company,</l>
+                  <l>here comes good fellowes, &amp;c.</l>
+                  <l>Pauiers, Bricklayers</l>
+                  <l>Potters and Brickmakers,</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Pinners and Pewterers,</l>
+                  <l>Plommars and Frewterers,</l>
+                  <l>Roome for company, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Roome for Company,</l>
+                  <l>here comes good fellowes.</l>
+                  <l>Roome for company,</l>
+                  <l>in Bartholmew faire.</l>
+                  <l>Pointers and Hoſters,</l>
+                  <l>Salemen and Clothiers,</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Horſe courſers, Carryers:</l>
+                  <l>Blackſmithes and Farryers,</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for Company,</l>
+                  <l>here comes, &amp;c.</l>
+                  <l>Girdlers, Imbrotherers,</l>
+                  <l>Spurryers and Soderers,</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Carmen, Car<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>takers,</l>
+                  <l>And Baſket-makers:</l>
+                  <l>Roome for company, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company,</l>
+                  <l>héere comes, &amp;c.</l>
+                  <l>Turners and Draymen,</l>
+                  <l>Horners and Laymen,</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Chandlers and Salters,</l>
+                  <l>Millers and Malſters,</l>
+                  <l>Roome for company, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Belfounders, Clock-makers,</l>
+                  <l>Lockeſmithes and Iackemakers,</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Carpenters and Ioyners,</l>
+                  <l>Clippers ad Coyners:</l>
+                  <l>Roome for company, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Fencers, Inkéepers,</l>
+                  <l>And Chimniſwéepers:</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Hatmakers, Sadlers,</l>
+                  <l>Shoemakers, Haglers,</l>
+                  <l>Roome for company, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Roome for Company,</l>
+                  <l>here comes good fellowes,</l>
+                  <l>Roome for company</l>
+                  <l>in Bartholmew faire,</l>
+                  <l>Brokers, Tobaccoſellers,</l>
+                  <l>Tapſters in Béere-cellers:</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Glouers and Cakebakers,</l>
+                  <l>With Cumfetmakers:</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company,</l>
+                  <l>here comes, &amp;c,</l>
+                  <l>Collyers and Caruers,</l>
+                  <l>Barbers and Weauers,</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Sargiants and Yeomen,</l>
+                  <l>Farmers and Ploughmen:</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Drouers and Shepheards,</l>
+                  <l>Sowgelders, Neatheards:</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Kéepers and Cunny-catchers,</l>
+                  <l>Baylyes and Rat-catchers,</l>
+                  <l>Roome for company, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Lyers and Swearers,</l>
+                  <l>With water-bearers,</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Iuglers and Ieſters,</l>
+                  <l>And Borrowers and Teſters:</l>
+                  <l>Roome for company, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Shéeremen and Wolmen,</l>
+                  <l>Milpickers and Mealemen,</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Scullers and Fiſhermen,</l>
+                  <l>Oaſtlers and Night-men:</l>
+                  <l>Roome for company, &amp;c.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150744:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 9 -->
+               <head>The Second part of Roome for Company. &amp;c</head>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>ROome for company,</l>
+                  <l>here come good fellowes,</l>
+                  <l>Roome for company,</l>
+                  <l>in Bartholmew faire.</l>
+                  <l>Butchers and Poulters:</l>
+                  <l>Drunkards and Porters:</l>
+                  <l>Roome for company,</l>
+                  <l>in Bartholmew faire,</l>
+                  <l>Clarkes, I and Scriueners,</l>
+                  <l>Informers and Sumners:</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company,</l>
+                  <l>here comes good followes,</l>
+                  <l>Roome for company,</l>
+                  <l>in Bartholmew faire,</l>
+                  <l>Beareherds and Ropemakers,</l>
+                  <l>Ploughwrights and Haymakers:</l>
+                  <l>Roome for company</l>
+                  <l>here comes, &amp;c.</l>
+                  <l>Canters, Quackſaluers,</l>
+                  <l>Mummers and Maunders,</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Brewers and Bakers,</l>
+                  <l>And Tabacco takers,</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Fréemaſons and Playſterers,</l>
+                  <l>Taylers and Labourers:</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company,</l>
+                  <l>here comes, &amp;c,</l>
+                  <l>Belfounders, Felmongers,</l>
+                  <l>Ballouſmenders, Woodmongers,</l>
+                  <l>Roome for, &amp;c.</l>
+                  <l>Pumpmakers, Glaſſemakers,</l>
+                  <l>Chamberlaines and Matmakers</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company,</l>
+                  <l>here comes good Fellowes, &amp;c.</l>
+                  <l>Collermakers, Néedlemakers,</l>
+                  <l>Buttonmakers, Fiddlemakers:</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Fletchers and Bowyers,</l>
+                  <l>Drawers and Sawyers:</l>
+                  <l>Roome for company,</l>
+                  <l>well may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for Company,</l>
+                  <l>here come good Fellowes,</l>
+                  <l>Roome for Company,</l>
+                  <l>in Bartholmew Faire,</l>
+                  <l>Cutpurſes and Cheaters,</l>
+                  <l>And Bawdy-houſe-doore kéepers.</l>
+                  <l>Roome for company, &amp;c.</l>
+                  <l>Punkes, I and Pander<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>And Caſhéer'd Commanders:</l>
+                  <l>Roome for Company,</l>
+                  <l>ill may they fare.</l>
+               </lg>
+               <lg>
+                  <l>Roome for company,</l>
+                  <l>here comes good fellowes, &amp;c.</l>
+                  <l>Alcumiſtes and Pedlers,</l>
+                  <l>Whoores, Bawdes, &amp; Beggers:</l>
+                  <l>Roome for company,</l>
+                  <l>in Bartholmew Faire:</l>
+                  <l>Auncients and Banners,</l>
+                  <l>Concluders, with Scanners,</l>
+                  <l>Roome for company,</l>
+                  <l>in Bartholmew Faire.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Imprinted as London for E. W.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
